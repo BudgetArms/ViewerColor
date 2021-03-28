@@ -14,11 +14,11 @@
 
 function Hey() {
 
-  var DivGif = document.createElement("div");
+//   var DivGif = document.createElement("div");
 
-  var SpanGif = document.createElement("span");
-  SpanGif.className = "property-name";
-  var SpanTextGif = document.createTextNode("Load Gif");
+//   var SpanGif = document.createElement("span");
+//   SpanGif.className = "property-name";
+//   var SpanTextGif = document.createTextNode("Load Gif");
 
 
   var li = document.createElement("li");
