@@ -56,7 +56,7 @@ function Hey() {
     const input = document.createElement('input');
     input.type = 'file';
     input.style.visibility = 'hidden';
-    input.accept = ".png;.jpg,.gif,.svg";
+    input.accept = ".png,.jpg,.gif,.svg";
     input.id = "input";
 
     SpanGif.appendChild(SpanTextGif);
